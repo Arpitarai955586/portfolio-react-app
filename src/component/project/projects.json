@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Weather Forecast App",
+        "main": "this is a Weather Forecast App using in HTML ,CSS and JavaScript .this app allow users to get real-time weather updates by simple entering the city name",
+        "project_url":"https://www.linkedin.com/posts/arpita-rai-5b228a24a_weatherapp-webdevelopment-javascript-activity-7268973765986836480-ihyj?utm_source=share&utm_medium=member_android&rcm=ACoAAD2fBtYBTql3afcxxSClWGpdiGCS7VQiJXQ",
+         "projectcode_url":"https://github.com/Arpitarai955586/Weather-App",
+         "image":"https://i.ytimg.com/vi/MIYQR-Ybrn4/maxresdefault.jpg"
+    },
+    {
+        "id": 2,
+        "title": " TODO App",
+        "main": "this is a Weather Forecast App using in HTML ,CSS and JavaScript .this app allow users to get real-time weather updates by simple entering the city name",
+        "project_url":"https://www.linkedin.com/posts/arpita-rai-5b228a24a_to-html-css-activity-7266856454517592064-QuyX?utm_source=share&utm_medium=member_android&rcm=ACoAAD2fBtYBTql3afcxxSClWGpdiGCS7VQiJXQ",
+         "projectcode_url":"https://github.com/Arpitarai955586/To-Do-List",
+         "image":"https://i.ytimg.com/vi/G0jO8kUrg-I/maxresdefault.jpg"
+    },
+    {
+        "id": 3,
+        "title":"RIOT GAMES Clone",
+        "main":"this is a  website created in HTML, CSS and JavaScript.",
+        "project_url":"https://www.linkedin.com/posts/arpita-rai-5b228a24a_riot-html-css-activity-7264334508777189376-XjJ7?utm_source=share&utm_medium=member_android&rcm=ACoAAD2fBtYBTql3afcxxSClWGpdiGCS7VQiJXQ",
+        "projectcode_url":"https://github.com/Arpitarai955586/RIOT-GAMES-Clone",
+        "image":"https://cdn6.aptoide.com/imgs/5/0/f/50f0673c6680e4e3dde7deeadb3ed00b_fgraphic.png"
+    }
+]
